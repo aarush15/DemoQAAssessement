@@ -1,0 +1,8 @@
+{
+    "BaseUrl": "https://demoqa.com/",
+    "Username": "asdfgasdgasdfg",
+    "Password": "asdfsdfa",
+    "QA": "https://demoQA.com/",
+    "UAT": "https://demoQA.com/",
+    "PROD": "https://demoProd.com/"
+}

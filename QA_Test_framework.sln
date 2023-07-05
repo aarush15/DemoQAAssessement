@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QA_Test_framework", "QA_Test_framework.csproj", "{9779BAC5-075A-4C75-B0EC-3F0B422818EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9779BAC5-075A-4C75-B0EC-3F0B422818EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9779BAC5-075A-4C75-B0EC-3F0B422818EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9779BAC5-075A-4C75-B0EC-3F0B422818EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9779BAC5-075A-4C75-B0EC-3F0B422818EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3605B8F2-DDD6-4E4B-8177-8A2D5256C8CC}
+	EndGlobalSection
+EndGlobal
